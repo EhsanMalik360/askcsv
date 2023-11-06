@@ -1,4 +1,4 @@
 streamlit
 pandas
 transformers
-tensorflow==2.0
+tensorflow==2.5.0
